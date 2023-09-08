@@ -28,8 +28,10 @@ Following are the model parameter and training loss achieved in training the mod
 - Training Loss - 1.452 (Epoch Mean)
 
 Graph showing training loss during training.
+
 ![Training Loss Graph](https://github.com/sdev2030/ERA1_Transformer_PLUS/blob/main/session16_assignment/images/training_graph.png)
 
 Graph showing the LR used by One Cycle policy.
+
 ![One Cycle Policy LR Graph](https://github.com/sdev2030/ERA1_Transformer_PLUS/blob/main/session16_assignment/images/lr_graph.png) 
 
