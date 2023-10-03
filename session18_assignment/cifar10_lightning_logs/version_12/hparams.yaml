@@ -1,0 +1,3 @@
+enc_out_dim: 512
+input_height: 32
+latent_dim: 256
