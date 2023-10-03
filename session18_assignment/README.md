@@ -57,5 +57,5 @@ Graph showing training loss during training.
 
 Result of 25 random images with wrong label
 
-![CIFAR10 Image](https://github.com/sdev2030/ERA1_Transformer_PLUS/blob/main/session18_assignment/images/cifar10_image_with_wrong_label_result.png)
+![CIFAR10 Image](https://github.com/sdev2030/ERA1_Transformer_PLUS/blob/main/session18_assignment/images/cifar10_image_wrong_label_result.png)
 
